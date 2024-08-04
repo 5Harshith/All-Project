@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+
+}
+#bmi_result{
+    font-size: 1.7rem;
+}
+.col-5{
+    background-color: white;
+    border-radius: 1rem;
+    padding: 20px;
+}
+.row{
+    min-height: 90vh;
+}

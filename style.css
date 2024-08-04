@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+body{
+  background-color: #414141;
+}
+.container{
+  display: grid;
+  grid-template-columns: repeat(3 ,1fr);
+  gap: 20px;
+
+}
+a{
+  text-decoration: unset;
+}
+.box{
+  width: auto;
+  height: 200px;
+  background-color: aqua;
+  font-size: 2vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  color: black;
+
+}

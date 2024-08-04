@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "All Project",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../ToDo List/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "All Project"
+	}
+}
